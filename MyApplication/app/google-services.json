@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799097715720",
+    "project_id": "garbagemng",
+    "storage_bucket": "garbagemng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799097715720:android:3b720f87177f5f3f2ea5bd",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799097715720-794vnbv41c8t7cjpguu8tfhuo13t2fri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABGvJFnF07DwMShHmrRCy8KGD_TkzvaEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799097715720-794vnbv41c8t7cjpguu8tfhuo13t2fri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
